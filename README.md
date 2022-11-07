@@ -7,7 +7,7 @@ source venv/bin/activate (Linux)
 
 .\venv\Scripts\activate (Windows)
 
-pip install python
+pip install django
 
 python manage.py makemigrations registros
 
