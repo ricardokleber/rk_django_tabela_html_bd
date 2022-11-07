@@ -15,7 +15,7 @@ python manage.py migrate
 
 python manage.py createsuperuser
 
-* Criar Login: admin / Senha: admin (sugestão)
+* Criar Username/Password (acesso ao banco = tabela 'registros')
 
 python manage.py runserver
 
